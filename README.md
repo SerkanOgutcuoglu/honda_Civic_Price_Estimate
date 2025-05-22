@@ -31,7 +31,7 @@ Bu proje, **Honda Civic** marka araçlar için ikinci el fiyat tahminlemesi yapm
 - Gerçek piyasa fiyatlarından sapmalar olabilir; model sadece referans içindir.
 
 
-
+**-------------------------------------------**
 
 # 🚗 Honda Civic Price Prediction Model
 
